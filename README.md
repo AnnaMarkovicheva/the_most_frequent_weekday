@@ -1,4 +1,4 @@
-# The most frequent weekday fot an item to be bought
+# The most frequent weekday for an item to be bought
 
 ### RU Description
 
